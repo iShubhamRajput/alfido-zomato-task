@@ -1,11 +1,11 @@
 # Zomato Dataset Analysis Submission Document
 
-**Candidate:** Add your name here  
+**Candidate:** Shubham Rajput  
 **Internship:** Alfido Tech  
 **Task:** 1 - Zomato Dataset Analysis  
 **Dataset:** `bhanupratapbiswas/zomato` from Kaggle  
-**GitHub Repository Link:** Add your GitHub repository link after upload  
-**Notebook Link:** Add your GitHub notebook link after upload  
+**GitHub Repository Link:** GitHub repository link - https://github.com/iShubhamRajput/alfido-zomato-task/blob/main/zomato_analysis.ipynb 
+**Notebook Link:** GitHub notebook link - https://colab.research.google.com/drive/1v5hYBUsJCzOxq1VYDo8bYBjkt2G8Ua8o?usp=sharing 
 
 ## 1. Executive Summary
 
